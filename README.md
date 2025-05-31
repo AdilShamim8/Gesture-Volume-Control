@@ -115,7 +115,7 @@ The story only begins here.
 
 ##  License
 
-Licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License](License).
 
 We said no to complexity. We said yes to your hand.
 
