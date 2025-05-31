@@ -27,6 +27,9 @@ That’s the future we’re building.
 5. **pycaw** breathes life into that measurement—volume rises and falls.  
 
 No menus. No clicks. Only motion.
+![](https://github.com/AdilShamim8/Gesture-Volume-Control/blob/main/image/hand_landmarks_docs.png)
+![](https://github.com/AdilShamim8/Gesture-Volume-Control/blob/main/image/htm.jpg)
+
 
 ---
 
@@ -104,7 +107,6 @@ The story only begins here.
 ##  Inspirations & Gratitude
 
 * **Pratham Bhatnagar’s original vision**
-  ([Gesture Volume Control](https://github.com/pratham-bhatnagar/Gesture-Volume-Control)) electrified the spark.
 * **MediaPipe by Google** powers our hands with precision.
 * **pycaw** connects us to Windows audio with grace.
 * **You**, the explorer, making every gesture count.
