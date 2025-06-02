@@ -1,10 +1,10 @@
 # Gesture Volume Control
-![](https://github.com/AdilShamim8/Gesture-Volume-Control/blob/main/image/Output.gif)
-
 
 What if controlling your computer’s volume was as natural as breathing? No knobs. No sliders. Just a gesture—your hand speaking to your machine.
 
 Gesture Volume Control merges **OpenCV**, **MediaPipe**, and **pycaw** into a singular experience: effortless, elegant, and utterly human.
+
+![](https://github.com/AdilShamim8/Gesture-Volume-Control/blob/main/image/Output.gif)
 
 ---
 
